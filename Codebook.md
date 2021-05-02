@@ -1,1 +1,92 @@
 
+Download the data set, create a directory to put it in and unzip the data
+Read the train data, test data for X,Y and S
+Merge the training and testing data for X,Y and S
+Read the information on Features and Activities
+Giving names to X,Y and S according to Features and Activities
+Combining S,X and Y
+Selecting the colums with mean and standard deviation
+Grouping the data according by each subject and activity. Then taking the mean of each column we selected earlier
+Exporting the clean data
+
+Measurements
+
+tBodyAccMeanX
+tBodyAccMeanY
+tBodyAccMeanZ
+tBodyAccStdX
+tBodyAccStdY
+tBodyAccStdZ
+tGravityAccMeanX
+tGravityAccMeanY
+tGravityAccMeanZ
+tGravityAccStdX
+tGravityAccStdY
+tGravityAccStdZ
+tBodyAccJerkMeanX
+tBodyAccJerkMeanY
+tBodyAccJerkMeanZ
+tBodyAccJerkStdX
+tBodyAccJerkStdY
+tBodyAccJerkStdZ
+tBodyGyroMeanX
+tBodyGyroMeanY
+tBodyGyroMeanZ
+tBodyGyroStdX
+tBodyGyroStdY
+tBodyGyroStdZ
+tBodyGyroJerkMeanX
+tBodyGyroJerkMeanY
+tBodyGyroJerkMeanZ
+tBodyGyroJerkStdX
+tBodyGyroJerkStdY
+tBodyGyroJerkStdZ
+tBodyAccMagMean
+tBodyAccMagStd
+tGravityAccMagMean
+tGravityAccMagStd
+tBodyAccJerkMagMean
+tBodyAccJerkMagStd
+tBodyGyroMagMean
+tBodyGyroMagStd
+tBodyGyroJerkMagMean
+tBodyGyroJerkMagStd
+fBodyAccMeanX
+fBodyAccMeanY
+fBodyAccMeanZ
+fBodyAccStdX
+fBodyAccStdY
+fBodyAccStdZ
+fBodyAccMeanFreqX
+fBodyAccMeanFreqY
+fBodyAccMeanFreqZ
+fBodyAccJerkMeanX
+fBodyAccJerkMeanY
+fBodyAccJerkMeanZ
+fBodyAccJerkStdX
+fBodyAccJerkStdY
+fBodyAccJerkStdZ
+fBodyAccJerkMeanFreqX
+fBodyAccJerkMeanFreqY
+fBodyAccJerkMeanFreqZ
+fBodyGyroMeanX
+fBodyGyroMeanY
+fBodyGyroMeanZ
+fBodyGyroStdX
+fBodyGyroStdY
+fBodyGyroStdZ
+fBodyGyroMeanFreqX
+fBodyGyroMeanFreqY
+fBodyGyroMeanFreqZ
+fBodyAccMagMean
+fBodyAccMagStd
+fBodyAccMagMeanFreq
+fBodyBodyAccJerkMagMean
+fBodyBodyAccJerkMagStd
+fBodyBodyAccJerkMagMeanFreq
+fBodyBodyGyroMagMean
+fBodyBodyGyroMagStd
+fBodyBodyGyroMagMeanFreq
+fBodyBodyGyroJerkMagMean
+fBodyBodyGyroJerkMagStd
+fBodyBodyGyroJerkMagMeanFreq
